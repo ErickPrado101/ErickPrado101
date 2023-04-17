@@ -13,8 +13,8 @@
   
 <div align = "center">
   <a href="https://github.com/ErickPrado101">
-  <img height="295m" locale=pt src="https://github-readme-stats.vercel.app/api?username=ErickPrado101&show_icons=&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="295em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickPrado101&&hide=layout=compact&langs_count=7&theme=dark"/>   
+  <img height="290m" locale=pt src="https://github-readme-stats.vercel.app/api?username=ErickPrado101&show_icons=&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="290em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickPrado101&&hide=layout=compact&langs_count=7&theme=dark"/>   
 </div> 
  
  ##

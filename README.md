@@ -6,7 +6,7 @@
 - 💬 Sobre  quem é Erick Prado:
   Gostaria de apresentar-me como um entusiasta da tecnologia e da ciência, com experiência como Técnico de Informática, Desenvolvedor Fullstack Junior,Professor de Robótica e Jogos Eletrônicos, e Analista de Dados Científicos, formando-se pela UFES.
 
-- 📫 contar-me:
+- 📫 contate-me:
   epg1.prado@gmail.com
   
   ##

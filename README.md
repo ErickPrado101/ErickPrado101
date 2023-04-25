@@ -13,12 +13,13 @@
   
 <div align = "center">
   <a href="https://github.com/ErickPrado101">
-  <img height="290m" locale=pt src="https://github-readme-stats.vercel.app/api?username=ErickPrado101&show_icons=&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="290em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickPrado101&&hide=layout=compact&langs_count=7&theme=dark"/>   
+  <img height="290" locale=pt-br src="https://github-readme-stats.vercel.app/api?username=ErickPrado101&show_icons=&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="290" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickPrado101&&hide=layout=compact&langs_count=7&theme=blue-green"/>   
 </div> 
  
  ##
- <img aligin ="center" height="80" widht="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> <img aligin ="center" height="80" widht="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /> <img aligin ="center" height="80" widht="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain-wordmark.svg" /> <img aligin ="center" height="80" widht="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /> <img aligin ="center" height="80" widht="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /> <img aligin ="center" height="80" widht="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"> <img  aligin ="center" height="80" widht="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img aligin ="center" height="80" widht="80"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> <img aligin ="center" height="80" widht="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" /> <img aligin ="center" height="80" widht="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original-wordmark.svg" />
+ <img aligin ="center" height="40" widht="40" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /> <img aligin ="center" height="40" widht="40" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /><img aligin ="center" height="40" widht="40" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img aligin ="center" height="40" widht="40" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img aligin ="center" height="40" widht="40" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img  aligin ="center" height="40" widht="40" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img aligin ="center" height="40" widht="30"  src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+ 
           
           
           

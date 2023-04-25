@@ -11,7 +11,7 @@
   
   ##
   
-<div align = "center">
+<div>
   <a href="https://github.com/ErickPrado101">
   <img height="290" locale=pt-br src="https://github-readme-stats.vercel.app/api?username=ErickPrado101&show_icons=&theme=blue-green&include_all_commits=true&count_private=true"/>
   <img height="290" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickPrado101&&hide=layout=compact&langs_count=7&theme=blue-green"/>   

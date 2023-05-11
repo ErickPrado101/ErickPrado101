@@ -13,17 +13,17 @@
   
   
 <div>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ErickPrado101&theme=react-dark&bg_color=000000&color=ffffff" alt="ErickPrado101's Github Activity Graph" width="910">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ErickPrado101&theme=react-dark&bg_color=000000&color=ffffff" alt="ErickPrado101's Github Activity Graph" width="875">
 
   
 </div>
 
 
   <a href="https://github.com/ErickPrado101">
-    <img height="280px" src="https://github-readme-stats.vercel.app/api?username=ErickPrado101&show_icons=&theme=dark&include_all_commits=true&count_private=true" style="max-width: 100%">
+    <img height="270px" src="https://github-readme-stats.vercel.app/api?username=ErickPrado101&show_icons=&theme=dark&include_all_commits=true&count_private=true" style="max-width: 100%">
   </a>
   <a href="https://github.com/ErickPrado101">
-    <img height="280px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickPrado101&langs_count=7&theme=dark" style="max-width: 100%">
+    <img height="270px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickPrado101&langs_count=7&theme=dark" style="max-width: 100%">
   </a>
 </div>
 

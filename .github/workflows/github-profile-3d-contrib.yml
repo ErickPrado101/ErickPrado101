@@ -1,0 +1,20 @@
+name: Generate GitHub 3D Profile
+
+on:
+  push:
+    branches:
+      - main # Altere para a branch principal do seu repositório, se necessário
+
+jobs:
+  generate_profile:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Generate 3D profile
+        uses: tipsy/github-profile-3d-contrib@v3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ErickPrado101

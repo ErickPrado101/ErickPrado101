@@ -11,7 +11,7 @@ Além de manutenção e montagem de dispositivos eletrônicos, também atuei com
   
 
 - 📫 contate-me:
-  epg1.prado@gmail.com
+  epg1.prado@gmail.com ou pleo whastapp: +55 27 988080038
   
   
   ## 

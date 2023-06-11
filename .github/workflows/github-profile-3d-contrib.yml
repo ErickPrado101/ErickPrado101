@@ -16,5 +16,5 @@ jobs:
       - name: Generate 3D profile
         uses: tipsy/github-profile-3d-contrib@v3
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: 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
           USERNAME: ErickPrado101

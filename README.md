@@ -21,8 +21,8 @@ Além de manutenção e montagem de dispositivos eletrônicos, também atuei com
 </div>
 
 
-  <a href="https://github.com/ErickPrado101">
-    <img height="260px" src="https://github-readme-stats.vercel.app/api?username=ErickPrado101&show_icons=&theme=dark&include_all_commits=true&count_private=true" style="max-width: 100">
+  <a href="https://github.com/ErickPrado404">
+    <img height="260px" src="https://github-readme-stats.vercel.app/api?username=ErickPrado404&show_icons=&theme=dark&include_all_commits=true&count_private=true" style="max-width: 100">
   </a>
   <a href="https://github.com/ErickPrado101">
     <img height="260px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickPrado101&langs_count=7&theme=dark" style="max-width: 100%">

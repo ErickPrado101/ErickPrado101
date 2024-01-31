@@ -5,7 +5,7 @@
 - 💬 Sobre  quem é Erick Prado:
 Sou um  apaixonado por tecnologia e ciência com ampla experiência em informática, robótica e programação, estou sempre em busca de novos conhecimentos e aprimoramento contínuo!
 Recebi uma medalha de honra por um aplicativo na área de Astronomia pela Universidade Federal do Espírito Santo . Atuando há 3 anos com ótima eficiência 
-trabalhista com Python ; APIs;C++;HTML; CSS; Javascript;SQL; Git; Arduino IDE; e Microsoft.
+trabalhista com Python e React; Git; Arduino IDE; e Microsoft.
 Além de manutenção e montagem de dispositivos eletrônicos, também atuei como analista de dados científicos e professor de robótica e desenvolvimento de jogos. 
 
   

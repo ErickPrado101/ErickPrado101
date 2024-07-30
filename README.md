@@ -1,12 +1,11 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&weight=500&duration=2000&pause=850&color=F8F8F8&vCenter=true&multiline=true&width=500&height=80&lines=Seja+bem+vindo+ao+meu+acervo+digital!;Sou+%C3%89rick+Prado%2C+desenvolvedor+fullstack" alt="Typing SVG" /></a>
 
-- 🔭 Trabalho com desenvolvimento fullstack há 3 anos!
+- 🔭 Trabalho com desenvolvimento fullstack há 2 anos!
 
 - 💬 Sobre  quem é Erick Prado:
-Sou um  apaixonado por tecnologia e ciência com ampla experiência em informática, robótica e programação, estou sempre em busca de novos conhecimentos e aprimoramento contínuo!
-Recebi uma medalha de honra por um aplicativo na área de Astronomia pela Universidade Federal do Espírito Santo . Atuando há 3 anos com ótima eficiência 
-trabalhista com Python e React; Git; Arduino IDE; e Microsoft.
-Além de manutenção e montagem de dispositivos eletrônicos, também atuei como analista de dados científicos e professor de robótica e desenvolvimento de jogos. 
+Sou programador apaixonado por tecnologia quanto na ciência com ampla experiência em informática, robótica e programação, atuei em diversos projetos startups quanto para agências financeiras!
+Atuando há 3 anos com ótima eficiência trabalhista com React e typescript; python; Arduino IDE.
+Além de ter atuado como professor de robótica, trabalhei com desenvolvimento de jogos e aplicativos web infantis. 
 
   
 

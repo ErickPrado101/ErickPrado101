@@ -76,7 +76,7 @@
  
  <div align="center">
    <a href="https://github.com/ErickPrado101">
-     <img src="https://raw.githubusercontent.com/ErickPrado101/ErickPrado101/main/profile-3d-contrib/profile-night-view.svg" />
+     <img src="https://raw.githubusercontent.com/ErickPrado101/ErickPrado101/main/profile-3d-contrib/profile-clean.svg" />
    </a>
  </div>
  

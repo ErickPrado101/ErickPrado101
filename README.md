@@ -1,6 +1,6 @@
 <div align="center">
  
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&weight=500&duration=2500&pause=800&color=F8F8F8&center=true&vCenter=true&multiline=true&width=780&height=95&lines=Seja+bem-vindo+ao+meu+GitHub!;Sou+%C3%89rick+Prado+Gon%C3%A7alves+%E2%80%94+Desenvolvedor+Front-end" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&weight=500&duration=2500&pause=800&color=F8F8F8&center=true&vCenter=true&multiline=true&width=780&height=95&lines=Seja+bem-vindo+ao+meu+GitHub!;Sou+%C3%89rick+Prado+Gon%C3%A7alves+%E2%80%94+Desenvolvedor+web" alt="Typing SVG" /></a>
  
  <p>
    <a href="https://www.linkedin.com/in/%C3%A9rick-prado-gon%C3%A7alves041076200/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>

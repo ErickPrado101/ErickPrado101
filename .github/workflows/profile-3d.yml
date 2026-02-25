@@ -29,15 +29,7 @@ jobs:
         env:
           USERNAME: ErickPrado101
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Crop SVG (remove side chart)
-        run: |
-          if [ -d "profile-3d-contrib" ]; then
-            for f in profile-3d-contrib/*.svg; do
-              [ -f "$f" ] || continue
-              perl -0777 -i -pe 's/width="1280"/width="1150"/g; s/viewBox="0 0 1280 850"/viewBox="0 0 1150 850"/g' "$f"
-            done
-          fi
+          SETTING_JSON: conf/github-profile-3d-contrib.json
 
       - name: Commit & Push
         run: |

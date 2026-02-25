@@ -1,0 +1,11 @@
+[
+  {
+    "type": "radar_contrib_only",
+    "fileName": "profile-clean.svg",
+    "backgroundColor": "#00000f",
+    "foregroundColor": "#eeeeff",
+    "weakColor": "#9ca3af",
+    "radarColor": "rgb(255,200,55)",
+    "growingAnimation": true
+  }
+]

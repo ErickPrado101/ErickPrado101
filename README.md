@@ -1,39 +1,94 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&weight=500&duration=2000&pause=850&color=F8F8F8&vCenter=true&multiline=true&width=500&height=80&lines=Seja+bem+vindo+ao+meu+acervo+digital!;Sou+%C3%89rick+Prado%2C+desenvolvedor+fullstack" alt="Typing SVG" /></a>
-
-- 🔭 Trabalho com desenvolvimento fullstack há 2 anos!
-
-- 💬 Sobre  quem é Erick Prado:
-Sou programador apaixonado por tecnologia quanto na ciência com ampla experiência em informática, robótica e programação, atuei em diversos projetos startups quanto para agências financeiras!
-Atuando há 3 anos com ótima eficiência trabalhista com React e typescript; python; Arduino IDE.
-Além de ter atuado como professor de robótica, trabalhei com desenvolvimento de jogos e aplicativos web infantis. 
-
-  
-
-- 📫 contate-me:
-  epg1.prado@gmail.com ou pelo whastapp: +55 27 988080038
-  
-  
-  ## 
-  
-
-  
-</div>
-
-
-  <a href="https://github.com/ErickPrado101">
-    <img height="250px" src="https://github-readme-stats.vercel.app/api?username=ErickPrado101&show_icons=&theme=dark&include_all_commits=true&count_private=false" style="max-width: 100">
-  </a>
-  <a href="https://github.com/ErickPrado101">
-    <img height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickPrado101&langs_count=7&theme=dark" style="max-width: 100%">
-  </a>
-</div>
-
+<div align="center">
  
- ##
- <img aligin ="center" height="40" widht="40" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" /> <img aligin ="center" height="40" widht="40" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img aligin ="center" height="40" widht="40" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img  aligin ="center" height="40" widht="40" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img  aligin ="center" height="40" widht="40" src="https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=sql&logoColor=white" /> <img aligin ="center" height="40" widht="40" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&weight=500&duration=2500&pause=800&color=F8F8F8&center=true&vCenter=true&multiline=true&width=780&height=95&lines=Seja+bem-vindo+ao+meu+GitHub!;Sou+%C3%89rick+Prado+Gon%C3%A7alves+%E2%80%94+Desenvolvedor+Front-end" alt="Typing SVG" /></a>
  
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&weight=500&duration=2000&pause=850&color=F8F8F8&vCenter=true&multiline=true&width=600&height=100&lines=Espero+que+tenha+aproveitado!;At%C3%A9+a+pr%C3%B3xima+vez%2C+foi+um+prazer+t%C3%AA-lo+por+aqui!" alt="Typing SVG" /></a>
-          
-          
-          
+ <p>
+   <a href="https://www.linkedin.com/in/%C3%A9rick-prado-gon%C3%A7alves041076200/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+   <a href="https://portifolio-react-ecru.vercel.app"><img src="https://img.shields.io/badge/Portf%C3%B3lio-111827?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+   <a href="mailto:epg1.prado@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+   <a href="https://wa.me/5527988080038"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+ </p>
  
+ </div>
+ 
+ ## Sobre mim
+ 
+ Sou desenvolvedor **front-end** há mais de **2 anos**, apaixonado por tecnologia, aprendizado contínuo e por construir produtos com **UX/UI bem resolvida**, performance e código limpo.
+ 
+ Atualmente trabalho com **Angular**, **React**, **TypeScript** e **Next.js**, além de atuar com **Python** no backend quando necessário.
+ 
+ - **Foco**: interfaces modernas, dashboards, aplicações corporativas e integrações com APIs
+ - **Diferenciais**: raciocínio lógico, versatilidade, comunicação e trabalho em equipe
+ - **Interesses**: produtos digitais, automação, robótica/IoT, boas práticas e arquitetura de front-end
+ 
+ ## Stack principal
+ 
+ <div align="left">
+   <img height="34" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+   <img height="34" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+   <img height="34" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+   <img height="34" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+   <img height="34" src="https://img.shields.io/badge/TailwindCSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />
+   <img height="34" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+   <img height="34" src="https://img.shields.io/badge/REST%20APIs-111827?style=for-the-badge&logo=postman&logoColor=FF6C37" />
+ </div>
+ 
+ ## Experiência em destaque
+ 
+ - **Banco BRB (terceirizado) | Jun/2025 – Out/2025**
+   - Desenvolvimento e manutenção de plataformas financeiras em grande escala
+   - Front-end com **Angular/TypeScript** e integrações via **APIs REST**
+   - Participação em padrões de segurança alinhados a **Open Banking** e **LGPD**
+ 
+ - **SportTV (terceirizado) | Jul/2025 – Out/2025**
+   - Interfaces e componentes para streaming (performance, escalabilidade e UX)
+   - **Next.js/React/TypeScript/TailwindCSS** + integração com APIs
+ 
+ - **Neugebauer (terceirizado) | Jul/2025 – Out/2025**
+   - Dashboards e relatórios em tempo real com foco em usabilidade e responsividade
+   - Melhoria de performance, SEO e acessibilidade
+ 
+ - **NeoSoftware TI (autônomo) | Fev/2023 – Jan/2025**
+   - Sistemas logísticos e automação com **Python**, **React/TypeScript** e integração com hardware (Arduino)
+ 
+ ## GitHub (métricas)
+ 
+ <div align="center">
+   <a href="https://github.com/ErickPrado101">
+     <img height="170" src="https://github-readme-stats.vercel.app/api?username=ErickPrado101&show_icons=true&theme=dark&include_all_commits=true" />
+   </a>
+   <a href="https://github.com/ErickPrado101">
+     <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=ErickPrado101&theme=dark" />
+   </a>
+ </div>
+ 
+ <div align="center">
+   <a href="https://github.com/ErickPrado101">
+     <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickPrado101&layout=compact&langs_count=8&theme=dark" />
+   </a>
+ </div>
+ 
+ <div align="center">
+   <a href="https://github.com/ErickPrado101">
+     <img src="https://github-readme-activity-graph.vercel.app/graph?username=ErickPrado101&theme=github-compact&hide_border=true" />
+   </a>
+ </div>
+ 
+ <div align="center">
+   <a href="https://github.com/ErickPrado101">
+     <img src="https://raw.githubusercontent.com/ErickPrado101/ErickPrado101/main/profile-3d-contrib/profile-night-rainbow.svg" />
+   </a>
+ </div>
+ 
+ ## Contato
+ 
+ - **Email**: `epg1.prado@gmail.com`
+ - **WhatsApp**: `+55 27 98808-0038`
+ - **LinkedIn**: https://www.linkedin.com/in/%C3%A9rick-prado-gon%C3%A7alves041076200/
+ - **Portfólio**: https://portifolio-react-ecru.vercel.app
+ 
+ <div align="center">
+ 
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&weight=500&duration=2500&pause=800&color=F8F8F8&center=true&vCenter=true&multiline=true&width=820&height=110&lines=Obrigado+pela+visita!;Se+quiser+trocar+uma+ideia%2C+me+chama+no+LinkedIn+ou+WhatsApp." alt="Typing SVG" /></a>
+ 
+ </div>

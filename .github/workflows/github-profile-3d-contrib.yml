@@ -3,7 +3,13 @@ name: Generate GitHub 3D Profile
 on:
   push:
     branches:
-      - main # Altere para a branch principal do seu repositório, se necessário
+      - main 
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   generate_profile:
@@ -11,10 +17,18 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
 
       - name: Generate 3D profile
-        uses: tipsy/github-profile-3d-contrib@v3
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
-          GITHUB_TOKEN: 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
           USERNAME: ErickPrado101
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          git commit -m "chore: generate 3d contribution graph" || exit 0
+          git push

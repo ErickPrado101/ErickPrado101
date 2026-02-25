@@ -1,11 +1,6 @@
 name: Generate GitHub 3D Profile
 
 on:
-  push:
-    branches:
-      - main 
-  schedule:
-    - cron: "0 3 * * *"
   workflow_dispatch:
 
 permissions:

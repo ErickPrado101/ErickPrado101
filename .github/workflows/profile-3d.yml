@@ -29,7 +29,15 @@ jobs:
         env:
           USERNAME: ErickPrado101
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          SETTING_JSON: conf/github-profile-3d-contrib.json
+
+      - name: Remove language chart (pie) from SVGs
+        run: |
+          if [ -d "profile-3d-contrib" ]; then
+            for f in profile-3d-contrib/*.svg; do
+              [ -f "$f" ] || continue
+              perl -0777 -i -pe 's/<g[^>]*>\s*<text[^>]*>TypeScript.*?<\/g>//sg; s/<g\s+transform="translate\(130,\s*130\)">.*?<\/g>//sg' "$f"
+            done
+          fi
 
       - name: Commit & Push
         run: |

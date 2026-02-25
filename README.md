@@ -13,7 +13,7 @@
  
  ## Sobre mim
  
- Sou desenvolvedor **front-end** há mais de **2 anos**, apaixonado por tecnologia, aprendizado contínuo e por construir produtos com **UX/UI bem resolvida**, performance e código limpo.
+ Sou desenvolvedor **web** com quase **3 anos**, apaixonado por tecnologia, aprendizado contínuo e por construir produtos com **UX/UI bem resolvida**, performance e código limpo.
  
  Atualmente trabalho com **Angular**, **React**, **TypeScript** e **Next.js**, além de atuar com **Python** no backend quando necessário.
  

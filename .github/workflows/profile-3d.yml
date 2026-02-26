@@ -35,7 +35,7 @@ jobs:
           if [ -d "profile-3d-contrib" ]; then
             for f in profile-3d-contrib/*.svg; do
               [ -f "$f" ] || continue
-              perl -0777 -i -pe 's/<g[^>]*>(?:(?!<\/g>).)*<text[^>]*>TypeScript.*?<\/text>(?:(?!<\/g>).)*<text[^>]*>(?:other|others).*?<\/text>(?:(?!<\/g>).)*<\/g>\s*//sig; s/<rect[^>]*\/?>(?:<\/rect>)?\s*<text[^>]*>TypeScript.*?<\/text>\s*//sig; s/<rect[^>]*\/?>(?:<\/rect>)?\s*<text[^>]*>(?:other|others).*?<\/text>\s*//sig; s/<text[^>]*>TypeScript.*?<\/text>\s*//sig; s/<text[^>]*>(?:other|others).*?<\/text>\s*//sig; s/<g\s+transform="translate\(\s*130\s*,\s*130\s*\)"\s*>.*?<\/g>\s*//sig' "$f"
+              perl -0777 -i -pe 's/(<g\s+transform="translate\(\s*130\s*,\s*130\s*\)"\s*)(>)/$1 style="display:none"$2/si; s/(<text\b[^>]*)(>\s*TypeScript\b)/$1 style="display:none"$2/si; s/(<text\b[^>]*)(>\s*(?:other|others)\b)/$1 style="display:none"$2/si; s/(<rect\b[^>]*)(?=\s*<text\b[^>]*>\s*TypeScript\b)/$1 style="display:none"/si; s/(<rect\b[^>]*)(?=\s*<text\b[^>]*>\s*(?:other|others)\b)/$1 style="display:none"/si' "$f"
             done
           fi
 

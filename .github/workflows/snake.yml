@@ -25,6 +25,12 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Dark theme snake squares
+        run: |
+          if [ -f "assets/snake.svg" ]; then
+            perl -0777 -i -pe 's/--ce:#ebedf0/--ce:#000000/sg; s/--c0:#ebedf0/--c0:#000000/sg; s/--cb:#1b1f230a/--cb:#00000033/sg' assets/snake.svg
+          fi
+
       - name: Commit & Push
         run: |
           git config user.name github-actions

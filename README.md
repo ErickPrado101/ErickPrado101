@@ -52,14 +52,20 @@
    - Sistemas logísticos e automação com **Python**, **React/TypeScript** e integração com hardware (Arduino)
  
  ## GitHub (métricas)
- <div align="center">
-   <a href="https://github.com/ErickPrado101">
-     <img height="170" src="https://raw.githubusercontent.com/ErickPrado101/ErickPrado101/main/profile-summary-card-output/github_dark/0-profile-details.svg" />
-   </a>
-   <a href="https://github.com/ErickPrado101">
-     <img height="170" src="https://raw.githubusercontent.com/ErickPrado101/ErickPrado101/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" />
-   </a>
- </div>
+ <table align="center">
+   <tr>
+     <td>
+       <a href="https://github.com/ErickPrado101">
+         <img height="170" alt="Detalhes do perfil" src="https://raw.githubusercontent.com/ErickPrado101/ErickPrado101/main/profile-summary-card-output/github_dark/0-profile-details.svg" />
+       </a>
+     </td>
+     <td>
+       <a href="https://github.com/ErickPrado101">
+         <img height="170" alt="Repositórios por linguagem" src="https://raw.githubusercontent.com/ErickPrado101/ErickPrado101/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" />
+       </a>
+     </td>
+   </tr>
+ </table>
  
  
  
@@ -69,11 +75,6 @@
    </a>
  </div>
  
- <div align="center">
-   <a href="https://github.com/ErickPrado101">
-     <img src="https://raw.githubusercontent.com/ErickPrado101/ErickPrado101/main/profile-3d-contrib/profile-night-view.svg" />
-   </a>
- </div>
 
  <div align="center">
    <a href="https://github.com/ErickPrado101">

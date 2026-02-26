@@ -35,7 +35,7 @@ jobs:
           if [ -d "profile-3d-contrib" ]; then
             for f in profile-3d-contrib/*.svg; do
               [ -f "$f" ] || continue
-              perl -0777 -i -pe 's/<text[^>]*>TypeScript.*?<\/text>\s*//sg; s/<text[^>]*>other.*?<\/text>\s*//sg; s/<g\s+transform="translate\(\s*130\s*,\s*130\s*\)">.*?<\/g>\s*//sg' "$f"
+              perl -0777 -i -pe 's/<g[^>]*>.*?<text[^>]*>TypeScript.*?<\/text>.*?<text[^>]*>(?:other|others).*?<\/text>.*?<\/g>\s*//sig; s/<text[^>]*>TypeScript.*?<\/text>\s*//sig; s/<text[^>]*>(?:other|others).*?<\/text>\s*//sig; s/<g\s+transform="translate\(\s*130\s*,\s*130\s*\)"\s*>.*?<\/g>\s*//sig' "$f"
             done
           fi
 

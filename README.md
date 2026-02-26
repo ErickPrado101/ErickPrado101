@@ -55,16 +55,16 @@
  
  <div align="center">
    <a href="https://github.com/ErickPrado101">
-     <img height="170" src="https://github-readme-stats.vercel.app/api?username=ErickPrado101&show_icons=true&theme=dark&include_all_commits=true" />
+     <img height="170" src="https://raw.githubusercontent.com/ErickPrado101/ErickPrado101/main/profile-summary-card-output/ErickPrado101/0-profile-details.svg" />
    </a>
    <a href="https://github.com/ErickPrado101">
-     <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=ErickPrado101&theme=dark" />
+     <img height="170" src="https://raw.githubusercontent.com/ErickPrado101/ErickPrado101/main/profile-summary-card-output/ErickPrado101/3-stats.svg" />
    </a>
  </div>
  
  <div align="center">
    <a href="https://github.com/ErickPrado101">
-     <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickPrado101&layout=compact&langs_count=8&theme=dark" />
+     <img height="170" src="https://raw.githubusercontent.com/ErickPrado101/ErickPrado101/main/profile-summary-card-output/ErickPrado101/1-repos-per-language.svg" />
    </a>
  </div>
  
@@ -77,6 +77,12 @@
  <div align="center">
    <a href="https://github.com/ErickPrado101">
      <img src="https://raw.githubusercontent.com/ErickPrado101/ErickPrado101/main/profile-3d-contrib/profile-night-view.svg" />
+   </a>
+ </div>
+
+ <div align="center">
+   <a href="https://github.com/ErickPrado101">
+     <img src="https://raw.githubusercontent.com/ErickPrado101/ErickPrado101/main/assets/snake.svg" />
    </a>
  </div>
  

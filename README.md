@@ -51,7 +51,7 @@
  - **NeoSoftware TI (autônomo) | Fev/2023 – Jan/2025**
    - Sistemas logísticos e automação com **Python**, **React/TypeScript** e integração com hardware (Arduino)
  
- ## GitHub (métricas)
+
  <table align="center">
    <tr>
      <td>
